@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=F88C00">
   <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=E9D54D">
   <img src="https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=CSharp&logoColor=239120">
+  <img src="https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.NET&logoColor=239120"
 </div>
 
 
