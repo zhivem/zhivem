@@ -1,6 +1,6 @@
 ![tumblr_m4vyniLRKe1rso43yo1_1280_800](https://github.com/user-attachments/assets/00c3f608-d550-476e-bc5b-211658049a46)
 
-## Крышую киносайт и пишу небольшие программы
+## Люблю кино и пишу небольшие программы
 
 ### Languages and Tools:
 
